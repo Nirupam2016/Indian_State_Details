@@ -11,4 +11,5 @@ Capital<br>
 Chief Minister<br>
 Governor<br>
 </p>
+<img src="/Screenshot .png">
 
