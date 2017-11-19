@@ -1,5 +1,5 @@
 <h2> Installation </h2>
-<code> pip install django</code>
+<code> pip install django</code><br>
 <code> pip install djangorestframework </code><br>
    
 <h2> Description </h2>
